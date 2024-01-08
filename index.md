@@ -9,10 +9,10 @@
 
 ```
 $ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 $ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+In /Users/skills/Projects/recipe-repository/.git/
 
 - [x] List syntax is required
 - [x] This item is complete
