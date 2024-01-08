@@ -5,4 +5,4 @@
 ##### The quick brown fox jumps over the lazy dog
 ###### The quick brown fox jumps over the lazy dog
 
-![Yaktocat](https://octodex.github.com/images/yaktocatk.png)
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
