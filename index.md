@@ -7,3 +7,7 @@
 $ echo "Some example content" > README.md
 $ git add README.md
 $ git commit -m "Add README.md"
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
